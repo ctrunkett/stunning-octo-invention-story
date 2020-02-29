@@ -1,3 +1,9 @@
-Once upon a time there was this dumbass who decided to study for exams instead of writing her program,
-then she failed her exam and didnt finish her program.Yikes.Now she's sitting in the CS basement drinking vending machine coffee on a friday.
+Once upon a time there was this dumbass who decided to study for exams instead
+of writing her program,then she failed her exam and didnt finish her program.
+Yikes. Now she's sitting in the CS basement drinking vending machine coffee 
+on a friday.
+
+However, it is still not the end for her. The coffee is kicing in and she is 
+feeling full of energy. A last 10 hour marathon can still be done to finish
+her code.
 
